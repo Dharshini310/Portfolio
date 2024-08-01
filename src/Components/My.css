@@ -1,0 +1,60 @@
+@media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
+.t{
+    background-repeat: no-repeat;
+    background-position: 320px;
+    width: 600px;
+}
+#png{
+    width:60px;
+    height:60px;
+}
+#png:hover{
+    zoom: 1.1;
+}
+h3{
+    color:lightpink;
+}
+h2{
+    margin-top: 3px;
+    margin-left: 2px;
+    color:lightpink;
+    font-family: 'Bradley Hand ITC';
+    font-size: medium;
+    font-weight: bolder;
+    font-style: italic;
+}
+#i{
+    width: 20px;
+    height: 20px;
+}
+p{
+    margin-left: 3px;
+    padding:2px;
+    color:whitesmoke;
+}
+#d{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+#uy{
+    color:white;
+    background-color: lightpink;
+    height: 40px;
+    font-weight: bolder;
+    font-size: large;
+}
+#uy:hover{
+    background-color: white;
+    color:lightpink;
+    cursor: pointer;
+}
+#ah{
+    color: white;
+    text-decoration: none;
+}

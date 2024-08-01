@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}
+
+#na{
+    width: 200vm;
+    height: 20vh;
+}
+#c{
+  color:lightpink;
+}
+.qr-codes {
+  display: flex;
+  justify-content: left;
+  gap: 30px; /* Adjust gap between QR codes as needed */
+}
+
+.qr-code-item {
+  text-align: center;
+}
+
+.qr-code {
+  width: 51mm; /* Adjust the size as needed */
+  height: 51mm; /* Adjust the size as needed */
+  object-fit: cover; /* Ensures aspect ratio is maintained */
+}
+.qr-code-item h3 {
+  margin-top: 10px; /* Adjust spacing between image and text as needed */
+}

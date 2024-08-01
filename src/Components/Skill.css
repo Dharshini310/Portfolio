@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
+.y{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxhiIqyhFpTHDFuiVvFnoBNp7_zYxAzbF9A&s);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#h{
+    width: 150px;
+}
+h5{
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.r{
+    margin-left: 300px;
+}

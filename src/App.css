@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}
+
+body{
+  background-color: black;
+  color:lightpink;
+  margin-left: 300px;
+}

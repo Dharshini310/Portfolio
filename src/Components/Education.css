@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
+h6{
+    color:gray;
+    font-weight: bold;
+}
+b{
+    color:gray;
+}

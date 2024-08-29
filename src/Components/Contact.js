@@ -10,7 +10,7 @@ export default function Contact() {
       <div className='contact-info'>
         <h1>Contact:</h1>
         <p>
-          <b id="c">Email:</b>&nbsp;dharshini3102k3@gmail.com<br />
+          <b id="c">Email:</b>&nbsp;myworld03071003@gmail.com<br />
           <b id="c">Phone:</b>&nbsp;6281168212<br />
           <b id="c">Location:</b>&nbsp;Visakhapatnam, Andhra Pradesh <br />
           <b id="c">Pincode:</b>&nbsp;530011
